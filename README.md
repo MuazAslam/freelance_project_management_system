@@ -2,10 +2,6 @@
 
 A comprehensive desktop application designed to streamline the freelance ecosystem, connecting clients and freelancers through an intuitive platform for project management, payments, and communication.
 
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![Tkinter](https://img.shields.io/badge/tkinter-GUI-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Table of Contents
 
 - [📋 Overview](#-overview)
@@ -256,6 +252,10 @@ The system uses a relational database with the following core entities:
 - **⭐ Reviews**: Stores client feedback
 
 All tables are properly normalized with appropriate foreign keys and relationships. The complete database schema is included in the FMS folder.
+
+##DATABASE ERD
+
+![Database ERD](https://github.com/user-attachments/assets/6eeb29bd-82d1-4429-af28-022c436ddc81)
 
 ## 📝 License
 
