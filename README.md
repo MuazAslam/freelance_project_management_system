@@ -25,6 +25,7 @@ A comprehensive desktop application designed to streamline the freelance ecosyst
   - [Freelancer Workflow](#freelancer-workflow)
 - [🗄️ Database Schema](#-database-schema)
   - [Core Entities](#core-entities)
+  - [Database ERD](#database-erd).
 - [📝 License](#-license)
 - [About](#about)
 
@@ -253,7 +254,7 @@ The system uses a relational database with the following core entities:
 
 All tables are properly normalized with appropriate foreign keys and relationships. The complete database schema is included in the FMS folder.
 
-##DATABASE ERD
+### Datbase ERD
 
 ![Database ERD](https://github.com/user-attachments/assets/6eeb29bd-82d1-4429-af28-022c436ddc81)
 
